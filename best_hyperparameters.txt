@@ -1,0 +1,80 @@
+Age 10:
+  bagging_temperature: 0.5198974417397998
+  depth: 3
+  iterations: 2000
+  l2_leaf_reg: 12.317562873630456
+  learning_rate: 0.03393830807147021
+  random_strength: 0.7441802850159597
+  rsm: 0.8052699079536471
+  subsample: 0.7320457481218804
+
+Age 11:
+  bagging_temperature: 0.5198974417397998
+  depth: 3
+  iterations: 2000
+  l2_leaf_reg: 12.317562873630456
+  learning_rate: 0.03393830807147021
+  random_strength: 0.7441802850159597
+  rsm: 0.8052699079536471
+  subsample: 0.7320457481218804
+
+Age 12:
+  bagging_temperature: 1.7992642186624028
+  depth: 6
+  iterations: 3000
+  l2_leaf_reg: 1.2881829201412343
+  learning_rate: 0.09714143595538946
+  random_strength: 2.5811066020010545
+  rsm: 0.6637017332034828
+  subsample: 0.6545474901621302
+
+Age 13:
+  bagging_temperature: 1.5909079937846313
+  depth: 6
+  iterations: 1000
+  l2_leaf_reg: 14.456408340890889
+  learning_rate: 0.08523071562442439
+  random_strength: 2.368300275343452
+  rsm: 0.7619076397167239
+  subsample: 0.7760253496991545
+
+Age 14:
+  bagging_temperature: 0.7751067647801507
+  depth: 6
+  iterations: 2000
+  l2_leaf_reg: 8.346590042851329
+  learning_rate: 0.046034776771001
+  random_strength: 1.2280728504951048
+  rsm: 0.7835558684167139
+  subsample: 0.6418481581956126
+
+Age 15:
+  bagging_temperature: 1.7992642186624028
+  depth: 6
+  iterations: 3000
+  l2_leaf_reg: 1.2881829201412343
+  learning_rate: 0.09714143595538946
+  random_strength: 2.5811066020010545
+  rsm: 0.6637017332034828
+  subsample: 0.6545474901621302
+
+Age 16:
+  bagging_temperature: 0.5198974417397998
+  depth: 3
+  iterations: 2000
+  l2_leaf_reg: 12.317562873630456
+  learning_rate: 0.03393830807147021
+  random_strength: 0.7441802850159597
+  rsm: 0.8052699079536471
+  subsample: 0.7320457481218804
+
+Age 18:
+  bagging_temperature: 0.7980735223012586
+  depth: 5
+  iterations: 3000
+  l2_leaf_reg: 10.89600281386664
+  learning_rate: 0.0742556809638938
+  random_strength: 2.4281758667148643
+  rsm: 0.6222133955202271
+  subsample: 0.7075397185632818
+
